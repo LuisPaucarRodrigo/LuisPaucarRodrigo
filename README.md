@@ -11,7 +11,7 @@
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px">&nbsp;***About me***
 
-I am a full-stack and Android developer. I am expanding my knowledge in Android, front-end, and back-end development, and I have experience building web and mobile applications. I am currently looking for new opportunities where I can contribute my skills, continue learning, and participate in innovative projects. I love to learn and build something new, productive, innovative and creative.
+I am a full-stack and Android developer. I am expanding my knowledge in Android, front-end, and back-end development, and I have experience building web and mobile applications. I am currently looking for new opportunities where I can contribute my skills, continue learning, and participate in innovative projects
 - 🌱 I’m currently learning ...
   - React.js
 - 👯 I’m looking forward to collaborate on open source projects.
